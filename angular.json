@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "final-exam"
+    }
+  },
+  "defaultProject": "final-exam",
+  "cli": {
+    "analytics": false
+  }
 }
